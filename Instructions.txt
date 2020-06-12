@@ -1,0 +1,6 @@
+1.The only file that you need to run is predictor.py
+2.Install the packages included in the header. 
+3.Go ahead and run predictor.py 
+
+I have left the other files, however, as they contain experiments that I held. 
+Some of them may not run without tweaking. 
